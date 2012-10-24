@@ -1,7 +1,7 @@
 {
     "name": "danapplegate/hateoas-game",
     "description": "A game which attempts to demonstrate best practices when developing RESTful and HATEOAS-compliant web application APIs",
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "authors": [
         {
             "name": "Dan Applegate",
@@ -9,6 +9,7 @@
         }
     ],
     "require": {
+        "symfony/framework-standard-edition": "2.1.2"
 
     }
 }
