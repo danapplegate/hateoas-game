@@ -1,0 +1,14 @@
+{
+    "name": "danapplegate/hateoas-game",
+    "description": "A game which attempts to demonstrate best practices when developing RESTful and HATEOAS-compliant web application APIs",
+    "minimum-stability": "stable",
+    "authors": [
+        {
+            "name": "Dan Applegate",
+            "email": "applegatedt@gmail.com"
+        }
+    ],
+    "require": {
+
+    }
+}
